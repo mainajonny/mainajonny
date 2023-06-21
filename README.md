@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <b>Hey there</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+  <h4>
+    Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+  </h4>
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/john-kabura-42030713b">
@@ -22,8 +24,8 @@ I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   
 - 💬 Ask me about: &nbsp; <b>FLUTTER</b>&nbsp;&nbsp;|&nbsp;&nbsp;<b>KOTLIN</b>&nbsp;&nbsp;|&nbsp;&nbsp;<b>JETPACK COMPOSE</b>&nbsp;&nbsp;|&nbsp;&nbsp;<b>JAVA</b>
   
-- 📫 Email me: &nbsp; [![Mail To](https://img.shields.io/badge/johnkabura263@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:johnkabura263@gmail.com)
-- 🤝 Connect on: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-john%20kabura-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-kabura-42030713b)
+- 📫 Email me: &nbsp;&nbsp;&nbsp; [![Mail To](https://img.shields.io/badge/johnkabura263@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:johnkabura263@gmail.com)
+- 🤝 Connect on: &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-john%20kabura-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-kabura-42030713b)
 
 ---
 
@@ -45,8 +47,10 @@ I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="40" height="40"/>
 </div>
+&nbsp;
 
 <div id="toplanguages" align="center">
+
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mainajonny&exclude_repo=mainajonny,mainajonny_profile&layout=compact&theme=vision-friendly-dark)]()
 </div>
 
