@@ -1,10 +1,8 @@
 <div id="header" align="center">
   <h4>
     Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
-  </h4>
-  
+  </h4>  
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="150"/>
-
   <div id="badges">
     <a href="https://www.linkedin.com/in/john-kabura-42030713b">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -48,7 +46,7 @@ I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="40" height="40"/>
 </div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mainajonny&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mainajonny&exclude_repo=mainajonny,mainajonny_profile&layout=compact&theme=vision-friendly-dark)]()
 
 Thanks for visiting!
 💪🔥
