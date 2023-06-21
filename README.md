@@ -51,11 +51,8 @@ I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="40" height="40"/>
 </div>
-&nbsp;
 
 <div id="toplanguages" align="center">
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainajonny)]()
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mainajonny&exclude_repo=mainajonny,mainajonny_profile&layout=compact&theme=vision-friendly-dark)]()
 </div>
