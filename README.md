@@ -9,10 +9,9 @@
     <a href="https://www.linkedin.com/in/john-kabura-42030713b">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  <p>&nbsp;</p>
-  <img src="https://komarev.com/ghpvc/?username=mainajonny&style=flat&color=green" alt=""/>
-  </div>
-  
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=mainajonny&style=flat&color=green" alt=""/>
+  </div>  
 </div>
 
 ---
