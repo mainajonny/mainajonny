@@ -6,11 +6,11 @@
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/john-kabura-42030713b/">
+    <a href="https://www.linkedin.com/in/john-kabura-42030713b">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     
-  <img src="https://komarev.com/ghpvc/?username=mainajonny&style=flat&color=green" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=mainajonny&style=flat&color=green" alt=""/>
   </div>  
 </div>
 
@@ -27,7 +27,9 @@ I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - 💬 Ask me about: FLUTTER  |  KOTLIN  |  JETPACK COMPOSE  |  JAVA
 
-- 📫 Email me: johnkabura263@gmail.com  OR  Checkout my: [![Linkedin Badge](https://img.shields.io/badge/-johnkabura-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-kabura-42030713b)
+- 📫 Email me: johnkabura263@gmail.com
+  OR
+- 🤝 Connect on: [![Linkedin Badge](https://img.shields.io/badge/-john%20kabura-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-kabura-42030713b)
 
 ---
 
