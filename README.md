@@ -22,7 +22,7 @@ I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - 🔭 Currently working on a credit scoring app with Flutter, some jetpack compose features and Kotlin libraries  
 - 🌱 I’m currently learning ReactJS for some reason.. 😄
 - 👯 I’m available to collaborate on any fintech projects that have potential to revolutionize the industry. I am however open to working on any other Flutter or Jetpack Compose project.
-- 💬 Ask me about:  <h3>FLUTTER</h3>  |  <h3>KOTLIN</h3>  |  <h3>JETPACK COMPOSE</h3>  |  <h3>JAVA</h3>
+- 💬 Ask me about: <div> <h5>FLUTTER</h5>  |  <h5>KOTLIN</h5>  |  <h5>JETPACK COMPOSE</h5>  |  <h5>JAVA</h5> </div>
 
 - 📫 Email me: johnkabura263@gmail.com
   <br> OR <br>
