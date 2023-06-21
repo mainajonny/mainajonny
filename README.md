@@ -25,9 +25,9 @@ I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - 🔭 Currently working on a credit scoring app with Flutter, some jetpack compose features and Kotlin libraries  
 - 🌱 I’m currently learning ReactJS for some reason.. 😄
 - 👯 I’m available to collaborate on any fintech projects that have potential to revolutionize the industry. I am however open to working on any other Flutter or Jetpack Compose project.
-  <br>  
+  <br>&nbsp;</br>
 - 💬 Ask me about: &nbsp;&nbsp; <b>FLUTTER</b>&nbsp;&nbsp;|&nbsp;&nbsp;<b>KOTLIN</b>&nbsp;&nbsp;|&nbsp;&nbsp;<b>JETPACK COMPOSE</b>&nbsp;&nbsp;|&nbsp;&nbsp;<b>JAVA</b>
-  <br>
+  <br>&nbsp;</br>
 - 📫 Email me: &nbsp;&nbsp; [![Mail To](https://img.shields.io/badge/johnkabura263@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:johnkabura263@gmail.com)
 - 🤝 Connect on: &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-john%20kabura-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-kabura-42030713b)
 
@@ -51,11 +51,11 @@ I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="40" height="40"/>
 </div>
+&nbsp;
 
 <div id="toplanguages" align="center">
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mainajonny&exclude_repo=mainajonny,mainajonny_profile&layout=compact&theme=vision-friendly-dark)]()
 </div>
 
-Thanks for visiting!
-💪🔥
+Thanks for visiting! &nbsp; 💪🔥
