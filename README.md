@@ -7,11 +7,10 @@
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/john-kabura-42030713b">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    
-   <img src="https://komarev.com/ghpvc/?username=mainajonny&style=flat&color=green" alt=""/>
-  </div>  
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=mainajonny&style=flat&color=green" alt=""/>
 </div>
 
 ---
@@ -20,16 +19,14 @@
 
 I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- 🔭 Currently working on a credit scoring app with Flutter, some jetpack compose features and Kotlin libraries
-  
-- 🌱 I’m currently learning ReactJS for some reason.. 😄 
-👯 I’m available to collaborate on any fintech projects that have potential to revolutionize the industry. I am however open to working on any other Flutter or Jetpack Compose project.
-
-- 💬 Ask me about: FLUTTER  |  KOTLIN  |  JETPACK COMPOSE  |  JAVA
+- 🔭 Currently working on a credit scoring app with Flutter, some jetpack compose features and Kotlin libraries  
+- 🌱 I’m currently learning ReactJS for some reason.. 😄
+- 👯 I’m available to collaborate on any fintech projects that have potential to revolutionize the industry. I am however open to working on any other Flutter or Jetpack Compose project.
+- 💬 Ask me about:  <h3>FLUTTER</h3>  |  <h3>KOTLIN</h3>  |  <h3>JETPACK COMPOSE</h3>  |  <h3>JAVA</h3>
 
 - 📫 Email me: johnkabura263@gmail.com
-  OR
-- 🤝 Connect on: [![Linkedin Badge](https://img.shields.io/badge/-john%20kabura-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-kabura-42030713b)
+  <br> OR <br>
+- 🤝 Connect on: [![Linkedin Badge](https://img.shields.io/badge/-john%20kabura-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-kabura-42030713b)
 
 ---
 
