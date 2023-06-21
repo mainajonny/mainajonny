@@ -2,12 +2,12 @@
 
 🔭 Currently working on a credit scoring app with Flutter, some jetpack compose features and Kotlin libraries
   
-🌱 I’m currently learning ReactJS for some reason.. 😄
-  
+🌱 I’m currently learning ReactJS for some reason.. 😄 
 👯 I’m available to collaborate on any fintech projects that have potential to revolutionize the industry. I am however open to working on any other Flutter or Jetpack Compose project.
 
 💬 Ask me about: FLUTTER  |  KOTLIN  |  JETPACK COMPOSE  |  JAVA
-📫 Email me: johnkabura263@gmail.com
+
+📫 Email me: johnkabura263@gmail.com  OR  checkout my [LinkedIn](https://www.linkedin.com/in/john-kabura-42030713b)
 
 Thanks for visiting!
 💪🔥
