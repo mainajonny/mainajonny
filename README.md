@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <h2>
+  <h3>
     Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h2>
+  </h3>
   
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
 
@@ -22,10 +22,10 @@ I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - 🔭 Currently working on a credit scoring app with Flutter, some jetpack compose features and Kotlin libraries  
 - 🌱 I’m currently learning ReactJS for some reason.. 😄
 - 👯 I’m available to collaborate on any fintech projects that have potential to revolutionize the industry. I am however open to working on any other Flutter or Jetpack Compose project.
-- 💬 Ask me about: <div> <h5>FLUTTER</h5>  |  <h5>KOTLIN</h5>  |  <h5>JETPACK COMPOSE</h5>  |  <h5>JAVA</h5> </div>
+- 💬 Ask me about:  <b>FLUTTER</b>  |  <b>KOTLIN</b>  |  <b>JETPACK COMPOSE</b>  |  <b>JAVA</b>
 
 - 📫 Email me: johnkabura263@gmail.com
-  <br> OR <br>
+  <br> OR
 - 🤝 Connect on: [![Linkedin Badge](https://img.shields.io/badge/-john%20kabura-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-kabura-42030713b)
 
 ---
@@ -44,10 +44,7 @@ I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL"  alt="MSSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="40" height="40"/>&nbsp;
-  <h3>
-    Currently Learning :
-  </h3>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>  
