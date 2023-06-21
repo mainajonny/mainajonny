@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/john-kabura-42030713b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 🔭 Currently working on a credit scoring app with Flutter, some jetpack compose features and Kotlin libraries
   
 🌱 I’m currently learning ReactJS for some reason.. 😄 
@@ -7,7 +17,7 @@
 
 💬 Ask me about: FLUTTER  |  KOTLIN  |  JETPACK COMPOSE  |  JAVA
 
-📫 Email me: johnkabura263@gmail.com  OR  checkout my [LinkedIn](https://www.linkedin.com/in/john-kabura-42030713b)
+📫 Email me: johnkabura263@gmail.com
 
 Thanks for visiting!
 💪🔥
